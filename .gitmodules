@@ -1,0 +1,6 @@
+[submodule "E-COMMERCE-APP-JS-UI"]
+	path = E-COMMERCE-APP-JS-UI
+	url = https://github.com/sriramanamaiya/E-COMMERCE-APP-JS-UI
+[submodule "E-COMMERCE-APP-JS-BE"]
+	path = E-COMMERCE-APP-JS-BE
+	url = https://github.com/sriramanamaiya/E-COMMERCE-APP-JS-BE
